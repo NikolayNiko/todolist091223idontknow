@@ -119,6 +119,7 @@ function renderTodoList(data, parentEl) {
   }
 }
 
+
 function checkValidArgs(data, parentEl) {
   
   if (!parentEl) {
